@@ -683,6 +683,10 @@ Tobias section
     border:2px solid #fff;
     padding: 20px;
 }
+.main_service_area .single_service .single_service_img img{
+    width: 270px;
+    height: 222px;
+}
 .service_more_btn{
     display: inline-block;
 
@@ -737,8 +741,12 @@ Tobias section
 .main_portfolio_content{
     display: inline-block
 }
+.main_portfolio_content .single_portfolio{
+    max-height: 210px;
+}
 .main_portfolio_content .single_portfolio img{
     width:100%;
+    height: 210px;
 }
 
 
